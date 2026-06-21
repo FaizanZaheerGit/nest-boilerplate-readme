@@ -21,7 +21,8 @@
 
 <div style="width:600px;height:360px;border:4px solid black;border-radius:20px;background-color: cyan;">
     <p style="margin-left:158px;font-size:20px;">CREATED BY: &nbsp; FAIZAN ZAHEER</p>
-    <p style="margin-left:16px;">Description : - This is an efficient and highly scalable Nest JS boilerplate built with Typescript, Mongoose ORM for MongoDB Connections and follows repository pattern.</p>
+    <p style="margin-left:16px;">Description : - This is a read me file for an efficient and highly scalable Nest JS boilerplate built with Typescript, Mongoose ORM for MongoDB Connections and follows repository pattern.</p>
+  <br /><code>Comment Below For any Code Snippet for Nest JS</code><br />
     <p style="margin-left:16px;">This Boilerplate includes the following :&nbsp;-</p>
     <ol style="margin-left: 20px;">
         <li>Mongoose ORM</li>
