@@ -35,6 +35,8 @@
         <li>Bull Queues Setup</li>
         <li>Redis Caching mchanism setup</li>
         <li>Graceful Shutdown Mechanism</li>
+        <li>Event based Architecture base using Kafka</li>
+        <li>CQRS Pattern standard boilerplate implementation</li>
     </ol>
 </div><br /><br />
 
